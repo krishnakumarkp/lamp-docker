@@ -18,7 +18,7 @@ docker exec -it db-server bash
 mysql -u root -p
 ```
 
-To run these containers using docker docker-compose:
+To run these containers using docker-compose:
 
 ```
 docker-compose up -d
